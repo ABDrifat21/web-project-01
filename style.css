@@ -24,7 +24,7 @@ h1{
     background-image: url("./images/top-banner.png");
     background-repeat: no-repeat;
     height: 500px;
-    padding-bottom: 20px;
+    padding-bottom: 150px;
 
 }
 .half-width-2{
@@ -43,4 +43,35 @@ h1{
     padding: 5px;
     border-radius: 5px;
     color: aliceblue;
+}
+.second-section{
+    background-image: url("./images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    height: 500px;
+    padding-bottom: 20px;
+
+}
+.section-three{
+    background-image: url("./images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position:left;
+    height: 500px;
+    padding-bottom: 20px;
+}
+.abilities{
+    box-shadow: 10px 10px 20px purple;
+    border-radius: 5px;
+    
+    
+}
+#pic1{
+  
+    background-image: linear-gradient(180deg,blue,cyan);
+    border-image-slice: 1;
+}
+#pic2{
+   
+    background-image: linear-gradient(180deg,blue,cyan);
+    border-image-slice: 1;
 }
