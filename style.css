@@ -1,0 +1,46 @@
+body{
+    font-family: 'Alkatra', cursive;
+    margin: 0%;
+}
+h1{
+    font-size: 50px;
+    color: purple;
+}
+#ramatraa-name{
+    color: orange;
+}
+.half-width{
+    float: right;
+    width: 35%;
+    margin: 5%;
+    padding: 2%;
+}
+.half-width img{
+    width: 100%;
+    
+}
+
+.first-section{
+    background-image: url("./images/top-banner.png");
+    background-repeat: no-repeat;
+    height: 500px;
+    padding-bottom: 20px;
+
+}
+.half-width-2{
+    float: left;
+    width: 30%;
+    margin: 5%;
+    padding: 2%;
+}
+.half-width-2 img{
+    width: 100%;
+    
+}
+.btn-1{
+    text-decoration: none;
+    background-image: linear-gradient(purple,red);
+    padding: 5px;
+    border-radius: 5px;
+    color: aliceblue;
+}
